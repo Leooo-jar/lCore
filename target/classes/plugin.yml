@@ -1,0 +1,25 @@
+name: lCore
+version: '1.0-SNAPSHOT'
+main: com.leo.lCore.Main
+api-version: '1.21'
+authors: [ Leo ]
+description: Cool Core plugin
+commands:
+  ban:
+  broadcast:
+  fly:
+  alert:
+  heal:
+  unban:
+  banwave:
+  msg:
+  r:
+  maintenance:
+  automessage:
+  test:
+  info:
+  menu:
+  rank:
+
+
+
